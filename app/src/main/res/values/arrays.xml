@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pizzas">
+        <item>Marguerite</item>
+        <item>Orientale</item>
+        <item>Espagnole</item>
+        <item>Americaine</item>
+        <item>Saumon</item>
+    </string-array>
+</resources>
